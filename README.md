@@ -62,3 +62,4 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Atharav Kasture](https://www.linkedin.com/in/atharav-kasture-ab024b2bb/) Execom 24-25
 
+[Aarya Deshpande](www.linkedin.com/in/aarya-deshpande-35839628a) Execom 24-25
