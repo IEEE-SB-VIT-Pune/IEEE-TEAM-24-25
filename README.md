@@ -63,3 +63,6 @@ Format :- [firstname-lastname](linkedin profile link).
 [Atharav Kasture](https://www.linkedin.com/in/atharav-kasture-ab024b2bb/) Execom 24-25
 
 [Prerak Gadpayale](https://www.linkedin.com/in/prerak-gadpayale-725a1a31b/) Execom 24-25
+
+[Vaibhav Pujari](https://www.linkedin.com/in/vaibhav-pujari-604505295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) Execom Management 24-25
+
