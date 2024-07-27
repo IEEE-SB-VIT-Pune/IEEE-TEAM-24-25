@@ -58,8 +58,13 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Ayush Girathe](https://www.linkedin.com/in/ayush-girathe-19a637289/ "Click to open linkedin profile") Execom 24-25
 
-[Utkatsha Kavitake](https://www.linkedin.com/in/utkarsha-kavitake-8457a42b5/) Execom 24-25
+[Utkarsha Kavitake](https://www.linkedin.com/in/utkarsha-kavitake-8457a42b5/) Execom 24-25
 
 [Atharav Kasture](https://www.linkedin.com/in/atharav-kasture-ab024b2bb/) Execom 24-25
 
 [Aarya Deshpande](www.linkedin.com/in/aarya-deshpande-35839628a) Execom 24-25
+
+[Prerak Gadpayale](https://www.linkedin.com/in/prerak-gadpayale-725a1a31b/) Execom 24-25
+
+[Vaibhav Pujari](https://www.linkedin.com/in/vaibhav-pujari-604505295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) Execom Management 24-25
+
