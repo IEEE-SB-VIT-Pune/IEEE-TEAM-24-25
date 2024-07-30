@@ -68,3 +68,4 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Vaibhav Pujari](https://www.linkedin.com/in/vaibhav-pujari-604505295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) Execom Management 24-25
 
+[Vansh Bhatt](www.linkedin.com/in/bhatt-vansh-aa9681300) Execom 24-25
